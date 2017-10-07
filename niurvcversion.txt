@@ -1,1 +1,8 @@
 
+NIURVC App
+
+Version 1.1 Beta 10/7/17
+- All pages created with dummy content on most
+- All icons updated
+- Load logic for refreshing pages completed
+- All pages have DOM stripping for web pages being created in CommonSpot
