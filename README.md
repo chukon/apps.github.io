@@ -12,6 +12,6 @@
 <li>Within 24 hours a confirmation email will be sent</li>
 <li>Once confirmation email received, tap install button above</li>
 <li>Once installed on iPhone or iPad, test and send feedback to ckonkol@aqua-aerobic.com</li>
-</ul></p>
-<hr>
 </ul>
+<hr>
+
