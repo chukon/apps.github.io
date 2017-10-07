@@ -10,7 +10,7 @@
 <li>Select choice to email and send UDID to ckonkol@aqua-aerobic.com</li>
 <li>Within 24 hours a confirmation email will be sent</li>
 <li>Once confirmation email received, tap install button above</li>
-<li>Once installed on iPhone or iPad, test and send feedback to ckonkol@aqua-aerobic.com</li>
+<li>Once installed on iPhone or iPad, test to make sure app opens successfully and your able to navigate all pages (Content is still coming in). Send feedback to c.konkol@rockvalleycollege.edu</li>
 </ul>
 <hr>
 
