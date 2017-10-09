@@ -1,6 +1,11 @@
 
 NIURVC App
 
+Version 1.1.2 Beta 10/9/17
+- Updated all pages with internet test
+- Updated Media page 
+- Other Minor fixes
+
 Version 1.1 Beta 10/7/17
 - All pages created with dummy content on most
 - All icons updated
