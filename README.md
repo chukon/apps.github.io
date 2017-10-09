@@ -1,5 +1,5 @@
 ![NIURVCAPP](https://github.com/konkolapps/konkolapps.github.io/blob/master/home.png)<br>
-<a href="itms-services://?action=download-manifest&url=https://konkolapps.github.io/manifest.plist">Tap below image to download and installl NIURVC beta app!<br><br><img width="250px" src="https://raw.githubusercontent.com/konkolapps/konkolapps.github.io/master/1.png"></a><br>
+<a href="itms-services://?action=download-manifest&url=https://konkolapps.github.io/manifest.plist">Tap below image to download and install NIURVC beta app!<br><br><img width="350px" src="https://raw.githubusercontent.com/konkolapps/konkolapps.github.io/master/1.png"></a><br>
 [version changesets](https://raw.githubusercontent.com/konkolapps/konkolapps.github.io/master/niurvcversion.txt)
 <hr>
  <ul>  
