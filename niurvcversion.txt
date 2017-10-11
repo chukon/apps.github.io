@@ -1,6 +1,15 @@
 
 NIURVC App
 
+Version 1.1.4 Beta 10/11/17
+- Updated icon placement
+- Other Minor fixes
+
+Version 1.1.3 Beta 10/10/17
+- Updated all commonspot pages
+- Updated load on each page 
+- Other Minor fixes
+
 Version 1.1.2 Beta 10/9/17
 - Updated all pages with internet test
 - Updated Media page 
