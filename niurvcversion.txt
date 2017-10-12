@@ -1,6 +1,11 @@
 
 NIURVC App
 
+Version 1.1.5 Beta 10/11/17
+- Updated common spot pages
+- Added right navigation to common spot
+- Fixed page alignment
+
 Version 1.1.4 Beta 10/11/17
 - Updated icon placement
 - Other Minor fixes
