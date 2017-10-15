@@ -3,7 +3,7 @@
 <hr>
 <b>Prerequisites to Testing App</b><br>
 - Latest iOS updates <br>
-- UDID <br>
+- SEND iOS UDID (See below) <br>
 <ul>  
 <li>Go to <b><a href="https://www.getudid.io">https://www.getudid.io</a></b> from your iPhone or iPad</li>
 <li>Accept installation of the OTA certificate</li>
