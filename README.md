@@ -4,8 +4,8 @@
 <b>Prerequisites to Testing App</b>
 - Latest iOS updates <br>
 - UDID <br>
- <ul>  
-<li>Go to <b><a href="http://udid.io">http://udid.io</a></b> from your iPhone or iPad</li>
+<ul>  
+<li>Go to <b><a href="https://www.getudid.io">https://www.getudid.io</a></b> from your iPhone or iPad</li>
 <li>Accept installation of the OTA certificate</li>
 <li>Once certificate has installed, the iPhones UDID will be shown</li>
 <li>Select choice to email and send UDID to c.konkol@rockvalleycollege.edu</li>
@@ -13,5 +13,8 @@
 <li>Once confirmation email received, tap install button above</li>
 <li>Once installed on iPhone or iPad, test to make sure app opens successfully and your able to navigate all pages (Content is still coming in). Send feedback to c.konkol@rockvalleycollege.edu</li>
 </ul>
+The UDID of IOS devices are needed in order to install the beta NIU&RVC App. Follow the steps in the podcast below to get the UDID of your device.  Do not attempt to install the beta app until you get a confirmation email stating I have received your UDID. 
+
+https://youtu.be/yOYIJ7sa_Gk 
 <hr>
 
