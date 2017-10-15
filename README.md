@@ -1,7 +1,7 @@
 <a href="itms-services://?action=download-manifest&url=https://konkolapps.github.io/manifest.plist">Tap below image to download and install NIURVC beta app!<br><br><img width="80%" src="https://raw.githubusercontent.com/konkolapps/konkolapps.github.io/master/en-US_iPhone5_5_1.png"></a><br>
 [version changesets](https://raw.githubusercontent.com/konkolapps/konkolapps.github.io/master/niurvcversion.txt)
 <hr>
-<b>Prerequisites to Testing App</b>
+<b>Prerequisites to Testing App</b><br>
 - Latest iOS updates <br>
 - UDID <br>
 <ul>  
