@@ -7,8 +7,8 @@
 <ul>  
 <li>Go to <b><a href="https://www.getudid.io">https://www.getudid.io</a></b> from your iPhone or iPad</li>
 <li>Accept installation of the OTA certificate</li>
-<li>Once certificate has installed, the iPhones UDID will be shown</li>
-<li>Select choice to email and send UDID to c.konkol@rockvalleycollege.edu</li>
+<li>Once certificate has installed, the UDID will be shown</li>
+<li>Select button to email and send UDID to c.konkol@rockvalleycollege.edu</li>
 <li>Within 24 hours a confirmation email will be sent</li>
 <li>Once confirmation email received, tap install button above</li>
 <li>Once installed on iPhone or iPad, test to make sure app opens successfully and your able to navigate all pages (Content is still coming in). Send feedback to c.konkol@rockvalleycollege.edu</li>
