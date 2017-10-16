@@ -1,6 +1,10 @@
 
 NIURVC App
 
+Version 1.1.7 Beta 10/16/17
+- Update chat window
+
+
 Version 1.1.6 Beta 10/13/17
 - Updated social page to determine if Facebook app installed.
 - Updated common spot social page to determine if on mobile or desktop then show mobile app or desktop link.
