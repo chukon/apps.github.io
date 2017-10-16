@@ -2,9 +2,9 @@
 <br>
 [read version changesets](https://raw.githubusercontent.com/konkolapps/konkolapps.github.io/master/niurvcversion.txt)
 <hr>
-<br>
+
 [submit bugs](https://github.com/rvcapps/niurvc/issues)
-<br>
+
 <b>Prerequisites to Testing App</b><br>
 The UDID of IOS devices are needed in order to install the beta NIU&RVC App. Follow the steps in the podcast below to get the UDID of your device.  Do not attempt to install the beta app until you get a confirmation email stating I have received your UDID. <br>
 <a href="https://youtu.be/yOYIJ7sa_Gk">https://youtu.be/yOYIJ7sa_Gk</a>
