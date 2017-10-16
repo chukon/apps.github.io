@@ -5,7 +5,7 @@
 
 [submit bugs](https://github.com/rvcapps/niurvc/issues)
 
-<a href="https://github.com/rvcapps/niurvc/issues" class="gitbutton pill">
+<a href=https://github.com/rvcapps/niurvc/issues class="gitbutton pill">
   submit github bugs!
 </a>
 
