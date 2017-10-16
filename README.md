@@ -5,6 +5,10 @@
 
 [submit bugs](https://github.com/rvcapps/niurvc/issues)
 
+<a href="https://github.com/rvcapps/niurvc/issues" class="gitbutton pill">
+  submit github bugs!
+</a>
+
 <b>Prerequisites to Testing App</b><br>
 The UDID of IOS devices are needed in order to install the beta NIU&RVC App. Follow the steps in the podcast below to get the UDID of your device.  Do not attempt to install the beta app until you get a confirmation email stating I have received your UDID. <br>
 <a href="https://youtu.be/yOYIJ7sa_Gk">https://youtu.be/yOYIJ7sa_Gk</a>
