@@ -1,6 +1,10 @@
 
 NIURVC App
 
+Version 1.1.8 Beta 10/16/17
+- Added Notifications (Accept Prompt if Asked about allowing notifications
+- Fixed bug on wait spinner
+
 Version 1.1.7 Beta 10/16/17
 - Update chat window
 
