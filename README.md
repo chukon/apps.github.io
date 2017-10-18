@@ -1,5 +1,5 @@
 # Testers for NIU&RVC App
-<b>Prerequisites to Testing App</b><br>
+<b>NEW TESTERS</b><br>
 Visit [here](https://rvcapps.github.io/niurvc/) to get started
 
 ### 1) Install App from iOS Device 
@@ -30,6 +30,7 @@ Visit [here](https://rvcapps.github.io/niurvc/) to get started
    - Type issue in provided textboxes (Title and Description)
    - Select label "new bug"
    - Tap Add
+   - PLEASE CHECK FOR UPDATES DAILY TO TEST RESOLVED ISSUES
 
 
 
