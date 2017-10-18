@@ -13,15 +13,16 @@ Visit [here](https://rvcapps.github.io/niurvc/) to get started
    - Bookmark web page to access easier in the future
    - Login with your Github username/password
 
+## Please Check for Updated Daily
 ### Testing New Features
-   - Under the "In Progress" column look for issues that start with the word "Test"
+   - Under the "Resolved" column look for issues that start with the word "Test"
    - Open the NIURVC app and test this new feature
    - Make comment on issue (tap on the comment icon in issue box): 
    example: 
       - worked
       - worked but had issues (explain)
       - didn't work (explain what you tried that didn't work) 
-   - PLEASE CHECK FOR UPDATES DAILY
+   - PLEASE CHECK FOR UPDATES DAILY TO TEST RESOLVED ISSUES
    
 ### Submitting New Issues
    - Go to [Issues](https://waffle.io/rvcapps/niurvc/join)
