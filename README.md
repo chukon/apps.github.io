@@ -10,6 +10,7 @@ Visit [here](https://rvcapps.github.io/niurvc/) to get started
 
 ### Access Bug System
    - Go to [Issues](https://waffle.io/rvcapps/niurvc/join)
+   - Bookmark web page to access easier in the future
    - Login with your Github username/password
 
 ### Testing New Features
@@ -20,6 +21,7 @@ Visit [here](https://rvcapps.github.io/niurvc/) to get started
       - worked
       - worked but had issues (explain)
       - didn't work (explain what you tried that didn't work) 
+   - PLEASE CHECK FOR UPDATES DAILY
    
 ### Submitting New Issues
    - Go to [Issues](https://waffle.io/rvcapps/niurvc/join)
@@ -28,5 +30,6 @@ Visit [here](https://rvcapps.github.io/niurvc/) to get started
    - Type issue in provided textboxes (Title and Description)
    - Select label "new bug"
    - Tap Add
+
 
 
