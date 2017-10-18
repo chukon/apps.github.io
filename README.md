@@ -14,7 +14,7 @@ last updated: 11/17/17 @ 5pm
 
 #### Please Check Daily for New Features & Resolved Issues
 
-### Access Bug System
+### Access Issue System
    - Go to [Issues](https://waffle.io/rvcapps/niurvc/join)
    - Bookmark web page to access easier in the future
    - Login with your Github username/password
