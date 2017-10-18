@@ -12,14 +12,14 @@ last updated: 11/17/17 @ 5pm
 
 ### 2) Test & Submit Issues
 
-#### Please Check Daily for Updates
+#### Please Check Daily for New Features & Resolved Issues
 
 ### Access Bug System
    - Go to [Issues](https://waffle.io/rvcapps/niurvc/join)
    - Bookmark web page to access easier in the future
    - Login with your Github username/password
    
-### Testing New Features \ Resolved Issues
+### Testing New Features & Resolved Issues
    - Under the "Resolved" column look for issues that start with the word "Test"
    - Open the NIURVC app and test this new feature
    - Make comment on issue (tap on the comment icon in issue box): 
@@ -27,7 +27,6 @@ last updated: 11/17/17 @ 5pm
       - worked
       - worked but had issues (explain)
       - didn't work (explain what you tried that didn't work) 
-   - PLEASE CHECK FOR UPDATES DAILY TO TEST RESOLVED ISSUES
    
 ### Submitting New Issues
    - Go to [Issues](https://waffle.io/rvcapps/niurvc/join)
@@ -36,7 +35,3 @@ last updated: 11/17/17 @ 5pm
    - Type issue in provided textboxes (Title and Description)
    - Select label "new bug"
    - Tap Add
-   - PLEASE CHECK FOR UPDATES DAILY TO TEST RESOLVED ISSUES
-
-
-
