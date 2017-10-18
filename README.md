@@ -1,6 +1,6 @@
 # Testers for NIU&RVC App
-<b>NEW TESTERS</b><br>
-Visit [here](https://rvcapps.github.io/niurvc/) to get started
+<b>NEW TESTERS?</b><br>
+Visit [here](https://rvcapps.github.io/niurvc/) FIRST to get started
 
 ### 1) Install App from iOS Device 
 <a href="itms-services://?action=download-manifest&url=https://konkolapps.github.io/manifest.plist">Tap HERE to install latest app<br><br><img width="50%" src="https://raw.githubusercontent.com/konkolapps/konkolapps.github.io/master/en-US_iPhone5_5_1.png"></a>
