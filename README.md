@@ -12,12 +12,13 @@ last updated: 11/17/17 @ 5pm
 
 ### 2) Test & Submit Issues
 
+#### Please Check Daily for Updates
+
 ### Access Bug System
    - Go to [Issues](https://waffle.io/rvcapps/niurvc/join)
    - Bookmark web page to access easier in the future
    - Login with your Github username/password
-
-## Please Check for Updated Daily
+   
 ### Testing New Features \ Resolved Issues
    - Under the "Resolved" column look for issues that start with the word "Test"
    - Open the NIURVC app and test this new feature
