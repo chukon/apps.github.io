@@ -18,8 +18,8 @@ Visit [here](https://rvcapps.github.io/niurvc/) FIRST to get started
    - Login with your Github username/password
    
 ### Testing New Features & Resolved Issues
-   - Under the "Resolved" column look for issues that start with the word "Test"
-   - Open the NIURVC app and test this new feature
+   - Under the "Resolved" column look for issues needing tested
+   - Open the NIURVC app and test that this new feature works or resolved issue is fixed
    - Make comment on issue (tap on the comment icon in issue box): 
    example: 
       - worked
