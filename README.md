@@ -5,12 +5,12 @@ Visit [here](https://rvcapps.github.io/niurvc/) FIRST to get started
 ### 1) Install Lastest App for iOS Device 
 last updated: 11/17/17 @ 5pm 
 <br><br>
-(Check daily. Update app before testing new features)
+(Check daily. Update app before testing)
 <br><br>
 <a href="itms-services://?action=download-manifest&url=https://konkolapps.github.io/manifest.plist">Tap HERE to install latest app<br><br><img width="50%" src="https://raw.githubusercontent.com/konkolapps/konkolapps.github.io/master/en-US_iPhone5_5_1.png"></a>
 <br>
 
-### 2) Test & Submit Issues
+### 2) Test Resolved Issues & Submit New Issues
 
 #### Please Check Daily for New Features & Resolved Issues
 
