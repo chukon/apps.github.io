@@ -1,6 +1,9 @@
 
 NIURVC App
 
+Version 1.1.10 Beta 10/20/17
+- Added {reload page} link on pages where web content can change
+
 Version 1.1.9 Beta 10/19/17
 - Added Notifications To Home Page of App
 - Safari web browser now opens up for most links for better user experience with web pages.
