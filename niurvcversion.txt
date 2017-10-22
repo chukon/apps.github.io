@@ -1,6 +1,10 @@
 
 NIURVC App
 
+Version 1.1.11 Beta 10/22/17
+- Added reload buttons
+- Added new page for notifications
+
 Version 1.1.10 Beta 10/20/17
 - Added {reload page} link on pages where web content can change
 
