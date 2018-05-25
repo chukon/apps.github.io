@@ -2,40 +2,99 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>items</key>
+	<key>AquaGuide.ipa</key>
 	<array>
 		<dict>
-			<key>assets</key>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>F68035FC5B9C4440D56265AE327D4F797B04017F</string>
+				<key>dateExpires</key>
+				<string>5/23/21</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
 			<array>
 				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://konkolapps.github.io/AquaGuide.ipa</string>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F68035FC5B9C4440D56265AE327D4F797B04017F</string>
+						<key>dateExpires</key>
+						<string>5/23/21</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>GoogleToolboxForMac.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>P38TU8T6B2</string>
+						<key>name</key>
+						<string>Aqua-Aerobic Systems, Inc.</string>
+					</dict>
 				</dict>
 				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>https://konkolapps.github.io/57.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>https://konkolapps.github.io/512.png</string>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F68035FC5B9C4440D56265AE327D4F797B04017F</string>
+						<key>dateExpires</key>
+						<string>5/23/21</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Protobuf.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>P38TU8T6B2</string>
+						<key>name</key>
+						<string>Aqua-Aerobic Systems, Inc.</string>
+					</dict>
 				</dict>
 			</array>
-			<key>metadata</key>
+			<key>entitlements</key>
 			<dict>
-				<key>bundle-identifier</key>
-				<string>com.aquaaerobic.aquaguide</string>
-				<key>bundle-version</key>
-				<string>1.0</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>title</key>
-				<string>AquaGuide</string>
+				<key>application-identifier</key>
+				<string>P38TU8T6B2.com.aquaaerobic.aquaguide</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>P38TU8T6B2</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>AquaGuide.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>48c71390-de0a-48ae-a8f8-24a6fae22855</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: com.aquaaerobic.aquaguide</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>P38TU8T6B2</string>
+				<key>name</key>
+				<string>Aqua-Aerobic Systems, Inc.</string>
 			</dict>
 		</dict>
 	</array>
