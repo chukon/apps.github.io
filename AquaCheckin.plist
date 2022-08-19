@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://konkolapps.github.io/AquaCheckin.ipa</string>
+					<string>https://konkolapps.github.io/aquacheckin.app</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,16 +29,17 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.AquaAerobic.AquaCheckin</string>
+				<string>com.AquaAerobic.AquaCheckIn</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>platform-identifier</key>
+				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>AquaCheckin</string>
+				<string>AquaCheckIn</string>
 			</dict>
 		</dict>
 	</array>
 </dict>
 </plist>
-
